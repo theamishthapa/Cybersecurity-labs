@@ -108,17 +108,17 @@ Selected attachments were executed in a controlled sandbox environment to observ
 
 | Sandbox Analysis 1 | Sandbox Analysis 2 | Sandbox Analysis 3 |
 |---|---|---|
-| ![Sandbox analysis 1](/phising_analysis/screenshots/sanbox-analysis-1.png) | ![Sandbox analysis 2](/phising_analysis/screenshots/sanbox-analysis-2.png) | ![Sandbox analysis 3](/phising_analysis/screenshots/sanbox-analysis-3.png) |
+| ![Sandbox analysis 1](/phising_analysis/screenshots/sanbox-analysis-1.png) | ![Sandbox analysis 2](/phising_analysis/screenshots/sandbox-analysis-2.png) | ![Sandbox analysis 3](/phising_analysis/screenshots/sandbox-analysis-3.png) |
 
 ---
 
-## 4. Indicators of Compromise (IOCs)
+## 4. Indicators of Compromise (IOCs) examples
 
-- **Malicious Domains:** `example-domain.com`
-- **File Hashes (SHA256):** `xxxxx`
-- **Suspicious URLs:** Extracted via URLScan
-- **Sender IPs:** Flagged in SPF failures
-
+- **Malicious Domains:** ``
+- **File Hashes (SHA256):** `75fdb848eac332b4ca7d88f497e7ba7ebbb9a798d825b28cf1f87b9d7149e87f`
+- **Suspicious URLs:** `hxxp[://]mijnalgemeneomgevlng[.]com[.]es`
+- **Sender IPs:** F`185.70.40.140`
+microsoft-auth-check.net
 ---
 
 ## 5. Conclusion
