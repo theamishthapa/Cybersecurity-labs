@@ -72,7 +72,15 @@ Email attachments were extracted and analyzed using:
 - Suspicious file types included `.docm` and `.pdf`
 - Macro-based execution detected in some samples
 
-📌 *Example screenshot: VirusTotal report*
+
+Process Screenshots:
+![Phising Email with Attachment](/phising_analysis/screenshots/attacthment-email-thunderbird.png)
+![Attachment Hash Generation](/phising_analysis/screenshots/arrachment-hash-generation.png)
+
+**Result Secreenshots**
+![Hash scan results](/phising_analysis/screenshots/attachment-hash-analysis.png)
+
+
 
 ---
 
