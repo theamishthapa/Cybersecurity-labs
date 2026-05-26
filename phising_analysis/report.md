@@ -74,6 +74,8 @@ Email attachments were extracted and analyzed using:
 
 
 Process Screenshots:
+
+
 ![Phising Email with Attachment](/phising_analysis/screenshots/attacthment-email-thunderbird.png)
 ![Attachment Hash Generation](/phising_analysis/screenshots/arrachment-hash-generation.png)
 
